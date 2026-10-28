@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-core
+numpy
+pandas 
+sentence-transformers
+langchain-openai
+chatgroq
+faiss-cpu
+rank_bm25
